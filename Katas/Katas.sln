@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_3", "Kata_3\Kata_3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_3_Optima", "Kata_3_Optima\Kata_3_Optima.csproj", "{6769FFD5-67EB-4FD5-8ACA-A322ABAEE384}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_4", "Kata_4\Kata_4.csproj", "{2037545D-77CA-4F7C-9D12-5D2BC3B5E03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_4_Optima", "Kata_4_Optima\Kata_4_Optima.csproj", "{14990368-4DA7-4BBD-A737-219424C9FFB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6769FFD5-67EB-4FD5-8ACA-A322ABAEE384}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6769FFD5-67EB-4FD5-8ACA-A322ABAEE384}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6769FFD5-67EB-4FD5-8ACA-A322ABAEE384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2037545D-77CA-4F7C-9D12-5D2BC3B5E03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2037545D-77CA-4F7C-9D12-5D2BC3B5E03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2037545D-77CA-4F7C-9D12-5D2BC3B5E03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2037545D-77CA-4F7C-9D12-5D2BC3B5E03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14990368-4DA7-4BBD-A737-219424C9FFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14990368-4DA7-4BBD-A737-219424C9FFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14990368-4DA7-4BBD-A737-219424C9FFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14990368-4DA7-4BBD-A737-219424C9FFB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
