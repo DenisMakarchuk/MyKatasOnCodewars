@@ -16,4 +16,6 @@ Float parameter "window" must be less than h.<br>
 If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
 Note:
 The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.<br>
+<b>KATA 6 </b> - Simple, given a string of words, return the length of the shortest word(s).
+String will never be empty and you do not need to account for different data types.<br>
 </p>
