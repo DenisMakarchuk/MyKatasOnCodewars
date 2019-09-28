@@ -10,20 +10,20 @@ namespace Kata_3_Optima
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(binaryArrayToNumber(new int[] { 0, 0, 0, 1 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 0, 0, 1, 0 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 0, 1, 0, 1 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 1, 0, 0, 1 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 0, 1, 1, 0 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 1, 1, 1, 1 }));
-            Console.WriteLine(binaryArrayToNumber(new int[] { 1, 0, 1, 1 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 0, 0, 0, 1 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 0, 0, 1, 0 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 0, 1, 0, 1 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 1, 0, 0, 1 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 0, 1, 1, 0 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 1, 1, 1, 1 }));
+            Console.WriteLine(BinaryArrayToNumber(new int[] { 1, 0, 1, 1 }));
 
             Console.Read();
         }
 
-        public static int binaryArrayToNumber(int[] BinaryArray)
+        public static int BinaryArrayToNumber(int[] binaryArray)
         {
-            return Convert.ToInt32(string.Join("", BinaryArray), 2);
+            return Convert.ToInt32(string.Join("", binaryArray), 2);
         }
     }
 }
