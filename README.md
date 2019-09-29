@@ -19,4 +19,6 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 <b>KATA 6 </b> - Simple, given a string of words, return the length of the shortest word(s).
 String will never be empty and you do not need to account for different data types.<br>
   <b>KATA 7</b> - You will be given a number and you will need to return it as a string in Expanded Form.<br>
+  <b>KATA 8</b> - Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word.<br>
+Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.<br>
 </p>
