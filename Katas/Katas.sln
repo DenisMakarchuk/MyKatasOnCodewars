@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_9", "Kata_9\Kata_9.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_9_Optima", "Kata_9_Optima\Kata_9_Optima.csproj", "{868817FD-5672-464D-9D0D-6C3A2AF02C98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_10", "Kata_10\Kata_10.csproj", "{57E76F3A-33E8-4F44-87E2-67BB3B2698E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_10_Optima", "Kata_10_Optima\Kata_10_Optima.csproj", "{DDE9CF15-3C9C-46C4-A56C-961A29F7CF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{868817FD-5672-464D-9D0D-6C3A2AF02C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{868817FD-5672-464D-9D0D-6C3A2AF02C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{868817FD-5672-464D-9D0D-6C3A2AF02C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E76F3A-33E8-4F44-87E2-67BB3B2698E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E76F3A-33E8-4F44-87E2-67BB3B2698E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E76F3A-33E8-4F44-87E2-67BB3B2698E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E76F3A-33E8-4F44-87E2-67BB3B2698E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE9CF15-3C9C-46C4-A56C-961A29F7CF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE9CF15-3C9C-46C4-A56C-961A29F7CF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE9CF15-3C9C-46C4-A56C-961A29F7CF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE9CF15-3C9C-46C4-A56C-961A29F7CF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
