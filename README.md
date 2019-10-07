@@ -25,4 +25,6 @@ Your task is to convert strings to how they would be written by Jaden Smith. The
   <b>KATA 10</b> - In this simple Kata your task is to create a function that turns a string into a Mexican Wave. You will be passed a string and you must return that string in an array where an uppercase letter is a person standing up.<br><br>
   <b>KATA 11</b> - ROT13 is a simple letter substitution cipher that replaces a letter with the letter 13 letters after it in the alphabet. ROT13 is an example of the Caesar cipher.<br>
 Create a function that takes a string and returns the string ciphered with Rot13. If there are numbers or special characters included in the string, they should be returned as they are. Only letters from the latin/english alphabet should be shifted, like in the original Rot13 "implementation".<br>
+  <b>KATA 12</b> - Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
+Note: a and b are not ordered!<br>
 </p>
