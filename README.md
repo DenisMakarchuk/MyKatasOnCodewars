@@ -27,4 +27,9 @@ Your task is to convert strings to how they would be written by Jaden Smith. The
 Create a function that takes a string and returns the string ciphered with Rot13. If there are numbers or special characters included in the string, they should be returned as they are. Only letters from the latin/english alphabet should be shifted, like in the original Rot13 "implementation".<br>
   <b>KATA 12</b> - Given two integers a and b, which can be positive or negative, find the sum of all the numbers between including them too and return it. If the two numbers are equal return a or b.
 Note: a and b are not ordered!<br>
+  <b>KATA 13</b> - There is a bus moving in the city, and it takes and drop some people in each bus stop.<br>
+You are provided with a list (or array) of integer arrays (or tuples). Each integer array has two items which represent number of people get into bus (The first item) and number of people get off the bus (The second item) in a bus stop.<br>
+Your task is to return number of people who are still in the bus after the last bus station (after the last array). Even though it is the last bus stop, the bus is not empty and some people are still in the bus, and they are probably sleeping there :D<br>
+Please keep in mind that the test cases ensure that the number of people in the bus is always >= 0. So the return integer can't be negative.<br>
+The second value in the first integer array is 0, since the bus is empty in the first bus stop.<br>
 </p>
