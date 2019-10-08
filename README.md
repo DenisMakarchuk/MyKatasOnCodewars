@@ -33,4 +33,5 @@ Your task is to return number of people who are still in the bus after the last 
 Please keep in mind that the test cases ensure that the number of people in the bus is always >= 0. So the return integer can't be negative.<br>
 The second value in the first integer array is 0, since the bus is empty in the first bus stop.<br>
   <b>KATA 14</b> - Complete the solution so that the function will break up camel casing, using a space between words.<br>
+  <b>KATA 15</b> - Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.<br>
 </p>
