@@ -35,4 +35,5 @@ The second value in the first integer array is 0, since the bus is empty in the 
   <b>KATA 14</b> - Complete the solution so that the function will break up camel casing, using a space between words.<br>
   <b>KATA 15</b> - Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.<br>
   <b>WTF</b> - Accepts an array of time as a string. Returns the range, average and the time from the array, which near to average, as a string. It does not pass the tests, I did not understand why.<br>
+  <b>KATA 16</b> - The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.<br>
 </p>
