@@ -41,4 +41,7 @@ For example: [1,2,3,4,5] for 2 beggars will return a result of [9,6], as the fir
 The same array with 3 beggars would have in turn have produced a better out come for the second beggar: [5,7,3], as they will respectively take [1,4], [2,5] and [3].<br>
 Also note that not all beggars have to take the same amount of "offers", meaning that the length of the array is not necessarily a multiple of n; length can be even shorter, in which case the last beggers will of course take nothing (0).<br>
 Note: in case you don't get why this kata is about English beggars, then you are not familiar on how religiously queues are taken in the kingdom ;)<br>
+  <b>KATA 18<b/> - The main idea is to count all the occuring characters(UTF-8) in string. If you have string like this aba then the result should be { 'a': 2, 'b': 1 }
+What if the string is empty ? Then the result should be empty object literal { }<br>
+For C#: Use a Dictionary<char, int> for this kata!<br>
 </p>
