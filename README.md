@@ -45,4 +45,9 @@ Note: in case you don't get why this kata is about English beggars, then you are
 What if the string is empty ? Then the result should be empty object literal { }<br>
 For C#: Use a Dictionary<char, int> for this kata!<br>
   <b>KATA 19</b> - Complete the method which returns the number which is most frequent in the given input array. If there is a tie for most frequent number, return the largest number among them. Note: no empty arrays will be given.<br>
+  <b>KATA 20</b> - You have to extract a portion of the file name as follows:<br>
+Assume it will start with date represented as long number<br>
+Followed by an underscore<br>
+Youll have then a filename with an extension<br>
+it will always have an extra extension at the end<br>
 </p>
